@@ -36,6 +36,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:8.21.0"],\
             ["eslint-config-next", "virtual:7e0ba1848b0a3da449efb699f96545482527bbda4c17b9e73e7a6069017555b951ff74fb5188ecffeb1922fe171978a106c9be4417fc388896e9eb1666014ebf#npm:12.2.4"],\
             ["next", "virtual:7e0ba1848b0a3da449efb699f96545482527bbda4c17b9e73e7a6069017555b951ff74fb5188ecffeb1922fe171978a106c9be4417fc388896e9eb1666014ebf#npm:12.2.4"],\
+            ["prettier", "npm:2.7.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:7e0ba1848b0a3da449efb699f96545482527bbda4c17b9e73e7a6069017555b951ff74fb5188ecffeb1922fe171978a106c9be4417fc388896e9eb1666014ebf#npm:18.2.0"]\
           ],\
@@ -2079,6 +2080,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:8.21.0"],\
             ["eslint-config-next", "virtual:7e0ba1848b0a3da449efb699f96545482527bbda4c17b9e73e7a6069017555b951ff74fb5188ecffeb1922fe171978a106c9be4417fc388896e9eb1666014ebf#npm:12.2.4"],\
             ["next", "virtual:7e0ba1848b0a3da449efb699f96545482527bbda4c17b9e73e7a6069017555b951ff74fb5188ecffeb1922fe171978a106c9be4417fc388896e9eb1666014ebf#npm:12.2.4"],\
+            ["prettier", "npm:2.7.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:7e0ba1848b0a3da449efb699f96545482527bbda4c17b9e73e7a6069017555b951ff74fb5188ecffeb1922fe171978a106c9be4417fc388896e9eb1666014ebf#npm:18.2.0"]\
           ],\
@@ -2339,6 +2341,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/prelude-ls-npm-1.2.1-3e4d272a55-cd192ec0d0.zip/node_modules/prelude-ls/",\
           "packageDependencies": [\
             ["prelude-ls", "npm:1.2.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["prettier", [\
+        ["npm:2.7.1", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.7.1-d1f40f5e1a-55a4409182.zip/node_modules/prettier/",\
+          "packageDependencies": [\
+            ["prettier", "npm:2.7.1"]\
           ],\
           "linkType": "HARD"\
         }]\
